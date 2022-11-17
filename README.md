@@ -14,5 +14,5 @@ CALL org.rle.ucms.applyUserActionHistory()
 ```
 The above calls will 
 1. produce a connected graph with 100 Activity nodes.
-2. produce one UserActionNode.
+2. produce one UserActionNode with 10 random User Actions.
 3. Apply the User Actions from the UserActionNode to the Activity nodes.
